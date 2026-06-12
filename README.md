@@ -6,7 +6,7 @@
 [![UserScript](https://img.shields.io/badge/tag-UserScript-orange.svg)](https://www.tampermonkey.net/)
 [![Version](https://img.shields.io/badge/version-2.1-blue.svg)]()
 
-一个基于油猴（Tampermonkey）的超轻量级华为人才在线平台网课助手。采用**顶层中央大脑 + 子框架时序引擎**的双层隔离架构，专治各种由于平台「随堂测验」、「本章课件」非视频节点导致的无视频挂机卡死、停滞问题。
+一个基于油猴（Tampermonkey）的超轻量级华为人才在线平台网课助手。支持自动连播、倍速调节、跳过"本章课件" 和 "随堂测验"。
 
 ## 核心特性
 
